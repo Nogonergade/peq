@@ -1,4 +1,4 @@
-[AI_PEQ_README_github (1).md](https://github.com/user-attachments/files/31121633/AI_PEQ_README_github.1.md)
+
 # AI PEQ
 
 헤드폰의 실측 주파수 응답(FR) 데이터를 기반으로, 자연어 요청만으로 파라메트릭 EQ를 생성하고 Equalizer APO에 실시간으로 적용하는 프로그램입니다.
